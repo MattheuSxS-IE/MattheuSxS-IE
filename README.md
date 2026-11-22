@@ -14,7 +14,7 @@ Currently expanding my expertise in AI for Data Engineering, Data Analytics, and
 </p>
 
 
-<p align="center">J
+<p align="center">
     <h2 align="center">Technology Stack <img src="./images/programming.png" width="20"></h2>
     <img
         align="left"
